@@ -1,0 +1,37 @@
+commit b979491f59bc7c3e89dd049d06b15915711fa12d
+Author: Jan Rieger <jan.rieger@fh-luebeck.de>
+Date:   Thu Feb 21 13:41:33 2013 +0100
+
+    branch_01
+
+diff --git a/dateia.txt b/dateia.txt
+index 9c083ad..bd0d284 100644
+--- a/dateia.txt
++++ b/dateia.txt
+@@ -1,3 +1,4 @@
+ Zeile A
+-Zeile B
+-Zeile C
+\ No newline at end of file
++Zeile C
++Zeile D
++Zeile E
+\ No newline at end of file
+diff --git a/dateib.txt b/dateib.txt
+deleted file mode 100644
+index 56f482d..0000000
+--- a/dateib.txt
++++ /dev/null
+@@ -1,3 +0,0 @@
+-Zeile 1
+-Zeile 2
+-Zeile 3
+\ No newline at end of file
+diff --git a/dateic.txt b/dateic.txt
+new file mode 100644
+index 0000000..d23d5ff
+--- /dev/null
++++ b/dateic.txt
+@@ -0,0 +1 @@
++Bla
+\ No newline at end of file
